@@ -5,8 +5,6 @@ If you want to get simple template of 404 error page, You can use this template.
 ## Simple.Lightweight.Responsive
 
 ![Desktop](screenshot/dekstop-ss.png)
-![Mobile](screenshot/mobile-browser.png)
-
 
 ## How to Install ?
 
